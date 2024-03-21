@@ -1,0 +1,44 @@
+﻿
+<section class="flex flex-col bg-gray-300 w-[20%] rounded-2xl border border-[rgba(20, 183, 224, 0.8)] fixed top-2 bottom-2 h-[98vh] border border-gray-300">
+    <div class="flex-column justify-center text-center py-2 text-[20px] font-semibold">
+        <a class="navbar-brand" href="">Socky</a>
+    </div>
+    
+    
+
+    <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+        <nav class="flex flex-col gap-6 xl:gap-3  text-gray-800 text-lg xl:text-[20px] px-[4%] xl:px-[7%] 2xl:text-[22px]">
+            
+            <NavLink class="nav-link flex gap-3 p-2 xl:p-3 rounded-xl" href="" Match="NavLinkMatch.All">
+                 <i class="fa-solid fa-house flex items-center"></i>
+                 <div class="flex items-center">Home</div>
+            </NavLink>
+
+            <NavLink class="nav-link flex bg-gray-100 gap-3 p-2 xl:p-3 rounded-xl" href="" Match="NavLinkMatch.All">
+                <i class="fa-solid fa-futbol flex items-center text-red-700"></i>
+                <div class="flex items-center">Scores</div>
+            </NavLink>
+
+            <NavLink class="nav-link flex gap-3 p-2 xl:p-3" href="counter">
+                <i class="fa-solid fa-table flex items-center text-blue-800"></i>
+                <div class="">Tables</div>
+            </NavLink>
+
+
+
+            <NavLink class="nav-link flex gap-3 p-2 xl:p-3" href="weather">
+                 <i class="fa-solid fa-braille flex items-center"></i>
+                 <div class="flex items-center">Tournaments</div>
+            </NavLink>
+
+            <NavLink class="nav-link flex gap-3 p-2 xl:p-3" href="weather">
+                <i class="fa-solid fa-people-group flex items-center text-blue-900"></i>
+                <div class="flex items-center">Teams</div>
+            </NavLink>
+            
+            
+        </nav>
+    </div>
+</section>
+
+

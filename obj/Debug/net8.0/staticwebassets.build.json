@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "NgDcCZi/rULvxD8UQ1X3p8l0oeAy7tJTv5EQSGNrYUI=",
+  "Source": "Socky",
+  "BasePath": "_content/Socky",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Socky\\wwwroot",
+      "Source": "Socky",
+      "ContentRoot": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\wwwroot\\",
+      "BasePath": "_content/Socky",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Socky.styles.css",
+      "SourceId": "Socky",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Socky",
+      "RelativePath": "Socky.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Socky.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Socky.bundle.scp.css",
+      "SourceId": "Socky",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Socky",
+      "RelativePath": "Socky.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Socky.bundle.scp.css"
+    }
+  ]
+}

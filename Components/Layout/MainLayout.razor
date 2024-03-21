@@ -1,0 +1,28 @@
+﻿@inherits LayoutComponentBase
+
+
+    <div class="flex flex-col lg:flex-row gap-3 px-[1%] sm:px-[1%] w-full py-2 ">
+        
+            
+        
+         
+       <div class="w-[20%] rounded-xl">
+            <NavMenu />
+        </div>
+
+        <main class="flex-column justify-left w-full bg-green-100 rounded-xl">
+            <!-- <div class="top-row px-4">
+                <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            </div> -->
+
+            <article class="content px-4 text-black">
+                @Body
+            </article>
+        </main>
+    </div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

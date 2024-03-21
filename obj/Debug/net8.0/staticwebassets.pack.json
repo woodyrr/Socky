@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\woody\\OneDrive\\Desktop\\Socky\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Socky.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Socky.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Socky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Socky.props",
+      "PackagePath": "build\\Socky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Socky.props",
+      "PackagePath": "buildMultiTargeting\\Socky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Socky.props",
+      "PackagePath": "buildTransitive\\Socky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
